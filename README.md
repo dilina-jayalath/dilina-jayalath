@@ -28,14 +28,7 @@
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
-
-<br/>
-
 <h3 align="center">My Statistics:</h3>
-<br/>
-
-
-
 <br/>
 
 <a href="https://github.com/dspjayalath">
