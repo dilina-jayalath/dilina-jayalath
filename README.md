@@ -4,8 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science Degree at University of Sri Lanka Institute of Information Technology.
-- 🌱 &nbsp; Learning more about Web Development, Mobile Development and UI/Ux Design.
-- ✍️ &nbsp; Pursuing Graphic Design and 3D model as hobbies/side hustles.
+- 🌱 &nbsp; Learning more about Web Development, Mobile Development.
 
 
 
