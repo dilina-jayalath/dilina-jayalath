@@ -31,7 +31,7 @@
 <h3 align="center">My Statistics:</h3>
 <br/>
 
-<a href="https://github.com/dspjayalath">
+<a href="https://github.com//DilinaJayalath">
   
   <table align="center">
 <tr border="none">
