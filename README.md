@@ -7,7 +7,15 @@
 - 🌱 &nbsp; Learning more about Web Development, Mobile Development and UI/Ux Design.
 - ✍️ &nbsp; Pursuing Graphic Design and 3D model as hobbies/side hustles.
 
+
+
+
+
+
 <h3> 🛠 &nbsp;Languages and Tools</h3>
+
+
+
 
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -27,6 +35,9 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+
+
+
 
 <h3 align="center">My Statistics:</h3>
 <br/>
