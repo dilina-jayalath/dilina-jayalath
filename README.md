@@ -1,5 +1,8 @@
 <h2> Hey there! I'm Dilina Jayalath.</h2>
 
+<img alt="Night Coding" src="./header.png" width='1000' align="center"/>
+
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
